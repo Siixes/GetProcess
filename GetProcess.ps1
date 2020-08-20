@@ -1,4 +1,4 @@
-function slowercat
+function GetProcess
 {
   param(
     [alias("Client")][string]$c="",
